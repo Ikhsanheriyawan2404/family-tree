@@ -2,8 +2,8 @@
 - Link docs API : https://documenter.getpostman.com/view/17289911/2s93RRwYiZ
 
 ## Visual
-![Screenshot](public/screenshot1.png)
-![Screenshot](public/screenshot2.png)
+![Screenshot](public/Screenshot1.png)
+![Screenshot](public/Screenshot2.png)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
