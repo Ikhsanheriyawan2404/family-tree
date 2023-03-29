@@ -9,7 +9,7 @@ class FamilyController extends Controller
 {
     public function allFamily()
     {
-        return response()->json(Family::with('parent')->get(['parent_id', 'name', 'gender']), 200);
+        return response()->json(Family::with('parent')->get(['id', 'parent_id', 'name', 'gender']), 200);
     }
 
     public function sonBudi($id)
